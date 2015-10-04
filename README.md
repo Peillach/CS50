@@ -1,2 +1,2 @@
 # CS50
-Readme Edit
+https://courses.edx.org/courses/HarvardX/CS50x3/2015/info
